@@ -1,0 +1,5 @@
+Calculator
+Pens
+Glasses
+Paperclips
+Stapler
